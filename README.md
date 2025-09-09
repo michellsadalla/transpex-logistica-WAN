@@ -68,7 +68,7 @@ A topologia da rede foi projetada no **Cisco Packet Tracer** conforme o diagrama
 
 ### 🔹 FTP
 
-- Servidor FTP centralizado na **Matriz (192.168.20.0/24)**.
+- Servidor FTP centralizado na **Matriz (192.168.20.100)** com IP estático.
 - Todas as filiais têm acesso ao servidor via **WAN**.
 - Configurado para permitir upload/download de arquivos corporativos, acesso(login: transpex / Senha: 1234).
 
