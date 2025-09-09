@@ -3,6 +3,7 @@
 ## 📌 Visão Geral
 
 Este projeto representa a rede corporativa da **Transpex Logística**, que conecta a matriz localizada no **Rio de Janeiro (Capital)** com as filiais nas regiões **Costa Verde (Angra dos Reis - RJ)** e **Região dos Lagos (Saquarema - RJ)**.  
+
 A rede foi implementada utilizando **roteadores Cisco**, **switches gerenciáveis**, **Access Points**, além de um **Servidor FTP centralizado na matriz**.
 
 O objetivo principal é garantir **comunicação entre todas as LANs** via **WAN** e fornecer **serviços centralizados**, como o FTP para compartilhamento de arquivos entre matriz e filiais.
