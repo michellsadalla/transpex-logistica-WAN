@@ -1,6 +1,8 @@
 # 🚛 Transpex Logística - Projeto de Rede WAN
 
-## 📌 Visão Geral
+---
+
+## 📖 Contexto
 
 Este projeto representa a rede corporativa da **Transpex Logística**, que conecta a matriz localizada no **Rio de Janeiro (Capital)** com as filiais nas regiões **Costa Verde (Angra dos Reis - RJ)** e **Região dos Lagos (Saquarema - RJ)**.  
 
@@ -15,10 +17,14 @@ O objetivo principal é garantir **comunicação entre todas as LANs** via **WAN
 A topologia da rede foi projetada no **Cisco Packet Tracer** conforme o diagrama abaixo:
 ![Topologia da Rede](imagens/topologia-de-rede.jpeg)
 
+---
+
 ### 🌐 Backbone
 
 - **Operadora de Internet** responsável por interligar os roteadores WAN das filiais e da matriz.
 - Comunicação estabelecida entre os roteadores através de interfaces **GigabitEthernet**.
+
+---
 
 ### 🟥 Matriz (Capital - Rio de Janeiro)
 
