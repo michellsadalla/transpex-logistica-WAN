@@ -111,8 +111,8 @@ Para validar a configuração da rede e garantir a comunicação entre os dispos
 
 ## Testes de Rede 🟥 Matriz --> 🟦 Filial 1 / 🟥 Matriz --> 🟩 Filial 2
 
-✅ Ping endpoints Matriz para Filial 1 e 2
-✅ Acesso servidor FTP centralizado
+- ✅ Ping endpoints Matriz para Filial 1 e 2
+- ✅ Acesso servidor FTP centralizado
 
 ![Testes na Matriz](imagens/teste-matriz-filial1-filial2.jpeg)
 
@@ -120,8 +120,8 @@ Para validar a configuração da rede e garantir a comunicação entre os dispos
 
 ## Testes de Rede 🟦 Filial 1 --> 🟥 Matriz / 🟦 Filial 1 --> 🟩 Filial 2
 
-✅ Ping endpoints Filial 1 para Matriz e Filial 2
-✅ Acesso servidor FTP centralizado
+- ✅ Ping endpoints Filial 1 para Matriz e Filial 2
+- ✅ Acesso servidor FTP centralizado
 
 ![Testes na Filial 1](imagens/teste-filial1-matriz-filial2.jpeg)
 
@@ -129,8 +129,8 @@ Para validar a configuração da rede e garantir a comunicação entre os dispos
 
 ## Testes de Rede 🟩 Filial 2 --> 🟥 Matriz / 🟩 Filial 2 --> 🟦 Filial 1
 
-✅ Ping endpoints Filial 2 para Matriz e Filial 1
-✅ Acesso servidor FTP centralizado
+- ✅ Ping endpoints Filial 2 para Matriz e Filial 1
+- ✅ Acesso servidor FTP centralizado
 
 ![Testes na Filial 2](imagens/teste-filial2-matriz-filial1.jpeg)
 
