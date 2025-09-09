@@ -79,7 +79,7 @@ A topologia da rede foi projetada no **Cisco Packet Tracer** conforme o diagrama
 
 ---
 
-📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório
 
 - `transpex-logistica-WAN.pkt` → Arquivo do Cisco Packet Tracer com a topologia pronta.
 - `README.md` → Documentação do projeto.
@@ -91,7 +91,7 @@ A topologia da rede foi projetada no **Cisco Packet Tracer** conforme o diagrama
 
 ---
 
-🚀 Como abrir o projeto para testar a conectividade da Rede
+## 🚀 Como abrir o projeto para testar a conectividade da Rede
 
 1. Instale o [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (versão **8.2 ou superior**).
 2. Clone este repositório:
@@ -109,7 +109,7 @@ Para validar a configuração da rede e garantir a comunicação entre os dispos
 
 ---
 
-# Testes de Rede 🟥 Matriz --> 🟦 Filial 1 / 🟥 Matriz --> 🟩 Filial 2
+## Testes de Rede 🟥 Matriz --> 🟦 Filial 1 / 🟥 Matriz --> 🟩 Filial 2
 
 ✅ Ping endpoints Matriz para Filial 1 e 2
 ✅ Acesso servidor FTP centralizado
@@ -118,7 +118,7 @@ Para validar a configuração da rede e garantir a comunicação entre os dispos
 
 ---
 
-# Testes de Rede 🟦 Filial 1 --> 🟥 Matriz / 🟦 Filial 1 --> 🟩 Filial 2
+## Testes de Rede 🟦 Filial 1 --> 🟥 Matriz / 🟦 Filial 1 --> 🟩 Filial 2
 
 ✅ Ping endpoints Filial 1 para Matriz e Filial 2
 ✅ Acesso servidor FTP centralizado
@@ -127,7 +127,7 @@ Para validar a configuração da rede e garantir a comunicação entre os dispos
 
 ---
 
-# Testes de Rede 🟩 Filial 2 --> 🟥 Matriz / 🟩 Filial 2 --> 🟦 Filial 1
+## Testes de Rede 🟩 Filial 2 --> 🟥 Matriz / 🟩 Filial 2 --> 🟦 Filial 1
 
 ✅ Ping endpoints Filial 2 para Matriz e Filial 1
 ✅ Acesso servidor FTP centralizado
