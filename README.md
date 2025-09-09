@@ -72,10 +72,10 @@ A topologia da rede foi projetada no **Cisco Packet Tracer** conforme o diagrama
 - Todas as filiais têm acesso ao servidor via **WAN**.
 - Configurado para permitir upload/download de arquivos corporativos, acesso(login: transpex / Senha: 1234).
 
-### 🔹 Roteamento
+### 🔹 Roteamento OSPF dinamico
 
-- Configuração de rotas estáticas entre os roteadores para garantir comunicação entre todas as redes locais.
-- Exemplo: LAN da Costa Verde (`192.168.10.0/24`) consegue acessar o FTP na Matriz (`192.168.20.0/24`).
+- Configuração de rotas dinamicas com protocolo OSPF no backbone para garantir comunicação com redundância entre todas as redes locais.
+- Exemplo: LAN da Costa Verde (`192.168.10.0/24`) consegue acessar o FTP na Matriz (`192.168.20.0/24`) mesmo se tiver rompimento em um dos enlaces backbone.
 
 ---
 
