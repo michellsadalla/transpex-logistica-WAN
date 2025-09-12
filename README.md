@@ -75,7 +75,7 @@ A topologia da rede foi projetada no **Cisco Packet Tracer** conforme o diagrama
 ### 🔹 Roteamento OSPF dinamico
 
 - Configuração de rotas dinamicas com protocolo OSPF no backbone para garantir comunicação com redundância entre todas as redes locais.
-- Exemplo: LAN da Costa Verde (`192.168.10.0/24`) consegue acessar o FTP na Matriz (`192.168.20.0/24`) mesmo se tiver rompimento em um dos enlaces backbone.
+- Exemplo: LAN da Costa Verde (`192.168.10.0/24`) consegue acessar o servidor FTP na Matriz (`192.168.20.100`) mesmo se tiver rompimento em um dos enlaces backbone.
 
 ---
 
